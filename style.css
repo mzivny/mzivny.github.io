@@ -1,0 +1,37 @@
+body{
+background: #00ff00;
+font-family: 'Ranga', cursives;
+color: #00ff00;
+
+}
+img {  
+display:block;
+height:250px;
+width: auto;
+}
+#title{
+	background: blue;
+width:700px;
+padding-left:10px;
+padding-bottom: 15px;}
+#main {
+	background: #00ff00;
+	width: 600;
+	padding: 15px;
+	margin-top: 15px;
+
+}
+
+
+                 
+
+
+
+
+
+
+
+
+
+
+
